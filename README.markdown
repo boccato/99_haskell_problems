@@ -3,7 +3,7 @@ Why
 
 To provide a basic set of unit tests to help people learning Haskell (including myself) go through the [99 Haskell Problems](http://www.haskell.org/haskellwiki/99_questions).
 
-Suggestions are highly appreciated, feel free to add them to the [wiki](wiki) or drop me an e-mail.
+Suggestions are highly appreciated, feel free to add them to the [wiki](99_haskell_problems/wiki) or drop me an e-mail.
 
 Getting Started
 -
